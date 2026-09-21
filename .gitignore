@@ -1,0 +1,35 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+env/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Data archives (keep .mat files)
+*.zip
+
+# macOS resource forks
+__MACOSX/
+
+# Streamlit cache
+.streamlit/secrets.toml
+
+# Scratch
+scratch/

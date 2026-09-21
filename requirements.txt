@@ -1,0 +1,14 @@
+# ML Capstone — Water Quality Prediction Dashboard
+# Install: pip install -r requirements.txt
+# Run:     streamlit run app.py
+
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+streamlit
+plotly
+nbformat
+nbconvert
